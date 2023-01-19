@@ -1,4 +1,4 @@
-# trybe_exercises
+# Exercicios da trybe
 Atividades da trybe, desenvolvidas por: __[Paulo Roberto](https://www.linkedin.com/in/probertojr/)__ :rocket: :fire:
 
 
