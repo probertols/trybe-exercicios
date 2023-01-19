@@ -1,5 +1,5 @@
 # trybe_exercises
-Atividades da trybe, desenvolvidas por: __[Paulo Roberto](https://www.linkedin.com/in/probertojr/) :fire:
+Atividades da trybe, desenvolvidas por: __[Paulo Roberto](https://www.linkedin.com/in/probertojr/)__ :rocket: :fire:
 
 
 ## Módulo 1: Fundamentos do Desenvolvimento Web :heavy_check_mark:
@@ -48,10 +48,10 @@ Atividades da trybe, desenvolvidas por: __[Paulo Roberto](https://www.linkedin.c
 - [] 6.4 - Projeto - JavaScript Testes Unitários
 
 ### Section 7: Higher Order Functions do JavaScript ES6
-- [] 8.1 - JavaScript ES6 - Introdução a Higher Order Functions
-- [] 8.2 - JavaScript ES6 - Higher Order Functions - sort e map
-- [] 8.3 - JavaScript ES6 - Higher Order Functions - filter e reduce
-- [] 8.4 - JavaScript ES6 - spead operator, rest parameters e object destructuring
-- [] 8.5 - JavaScript ES6 - Array descturing, Default destructuring, Object property shorthand e default parameters
-- [] 8.6 - Projeto - Zoo functions
+- [] 7.1 - JavaScript ES6 - Introdução a Higher Order Functions
+- [] 7.2 - JavaScript ES6 - Higher Order Functions - sort e map
+- [] 7.3 - JavaScript ES6 - Higher Order Functions - filter e reduce
+- [] 7.4 - JavaScript ES6 - spead operator, rest parameters e object destructuring
+- [] 7.5 - JavaScript ES6 - Array descturing, Default destructuring, Object property shorthand e default parameters
+- [] 7.6 - Projeto - Zoo functions
 
