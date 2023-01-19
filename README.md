@@ -1,8 +1,9 @@
-# trybe_exercises
+# Exercicios da trybe
 Atividades da trybe, desenvolvidas por: __[Paulo Roberto](https://www.linkedin.com/in/probertojr/)__ :rocket: :fire:
 
 
 ## Módulo 1: Fundamentos do Desenvolvimento Web :heavy_check_mark:
+
 
 ### Section 1: Unix, Shell & Git
 - [✔] 1.1 - Unix & Bash - Parte 1
@@ -55,3 +56,6 @@ Atividades da trybe, desenvolvidas por: __[Paulo Roberto](https://www.linkedin.c
 - [] 7.5 - JavaScript ES6 - Array descturing, Default destructuring, Object property shorthand e default parameters
 - [] 7.6 - Projeto - Zoo functions
 
+
+
+## Módulo 2
