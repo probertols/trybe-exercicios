@@ -15,12 +15,12 @@ Atividades da trybe, desenvolvidas por: __[Paulo Roberto](https://www.linkedin.c
 - [✔] 2.1 - HTML & CSS - Estruturas de página
 - [✔] 2.2 - HTML & CSS - Primeiros passos em CSS
 - [✔] 2.3 - HTML & CSS - Seletores e posicionamento
-- [] 2.4 - HTML Semântico
-- [] 2.5 - Projeto - Lessons Learned 
+- [✔] 2.4 - HTML Semântico
+- [✔] 2.5 - Projeto - Lessons Learned 
 
 ### Section 3: Introdução à JavaScript
-- [] 3.1 - JavaScript - Primeiros passos
-- [] 3.2 - JavaScript - Array e loop For
+- [✔] 3.1 - JavaScript - Primeiros passos
+- [✔] 3.2 - JavaScript - Array e loop For
 - [] 3.3 - JavaScript - Lógica de Programação e Algoritmos
 - [] 3.4 - JavaScript - Objetos e funções
 - [] 3.5 - JavaScript ES6 - let, const, arrow functions e template literals
