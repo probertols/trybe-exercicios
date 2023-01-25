@@ -1,0 +1,21 @@
+ls - lista arquivos e diretorios.
+ls -a  - lista todos os arquivos e diretórios.
+mkdir - cria um diretório. 
+cd (diretório) - muda pro diretorio escolhido.
+cd - muda pro diretório inicial.
+cd ~ - muda pro diretório inicial.
+cd .. - muda pro diretório pai.
+pwd - mostra o caminho do diretório atual.
+cp arquivo1 arquivo2 - faz uma copia do arquivo1 para o arquivo2.
+mv arquivo1 arquivo2 - move ou renomeia o arquivo1 para o arquivo2.
+rm arquivo - remove um arquivo 
+rmdir (diretório) - remove um diretório
+cat arquivo - exibe um arquivo
+less arquivo - exibe um arquivo, uma pg por vez
+head arquivo - exibe as primeira linhas de um arquivo
+tail arquivo - exibe as ultimas linhas de um arquivo
+grep 'palavra-chave' arquivo - procura pelo nome colocado na busca.
+wc - conta o numero de linhas
+man - lê a pagina do manual online do comando informado
+whatis (comando) - dá uma breve descrição do comando informado
+apropos 'palavra-chave' - corresponde a comandos com palavras chave em suas páginas de manual
