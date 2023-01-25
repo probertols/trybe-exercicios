@@ -1,0 +1,6 @@
+sort - ordena dados
+who - lista usuários atualmente logados
+jobs - lista processos suspensos e em segundo plano
+kill (numero do processo) - encerra um processo
+ps - lista processos atuais
+
